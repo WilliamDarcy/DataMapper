@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adherent2_DataLayer", "Adherent2_DataLayer\Adherent2_DataLayer.csproj", "{11875C48-144B-4BA8-AB2D-0292940C1C2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{DE939F6F-CEC1-4E1B-95B5-B056B4892ADF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{11875C48-144B-4BA8-AB2D-0292940C1C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11875C48-144B-4BA8-AB2D-0292940C1C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11875C48-144B-4BA8-AB2D-0292940C1C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE939F6F-CEC1-4E1B-95B5-B056B4892ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE939F6F-CEC1-4E1B-95B5-B056B4892ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE939F6F-CEC1-4E1B-95B5-B056B4892ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE939F6F-CEC1-4E1B-95B5-B056B4892ADF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
